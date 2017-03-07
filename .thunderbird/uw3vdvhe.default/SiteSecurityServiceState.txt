@@ -1,0 +1,2 @@
+www.mozilla.org:HSTS	1	17180	1515912618067,1,0
+www.gandi.net:HSTS	0	17040	1488081198183,1,0

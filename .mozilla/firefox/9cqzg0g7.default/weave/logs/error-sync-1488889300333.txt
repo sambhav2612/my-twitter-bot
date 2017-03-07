@@ -1,0 +1,197 @@
+1488889205243	Sync.LogManager	DEBUG	Flushing file log
+1488889205243	Sync.LogManager	TRACE	Beginning stream copy to error-sync-1488889205243.txt: 1488889205243
+1488889205248	browserwindow.syncui	DEBUG	_loginFailed has sync state=success.login
+1488889205250	browserwindow.syncui	DEBUG	_loginFailed has sync state=success.login
+1488889205252	browserwindow.syncui	DEBUG	observed: weave:ui:sync:finish
+1488889205292	Sync.LogManager	TRACE	finished copy to: /home/sambhav2612/.mozilla/firefox/9cqzg0g7.default/weave/logs/error-sync-1488889205243.txt
+1488889205293	Sync.LogManager	TRACE	onCopyComplete: 1488889205293
+1488889205293	Sync.LogManager	TRACE	Scheduling cleanup.
+1488889205293	Sync.LogManager	DEBUG	Log cleanup threshold time: 1488025205293
+1488889205302	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485822610531.txt (1485822610000)
+1488889205303	Sync.LogManager	TRACE	Deleted error-sync-1485822610531.txt
+1488889205306	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485827955253.txt (1485827955000)
+1488889205307	Sync.LogManager	TRACE	Deleted error-sync-1485827955253.txt
+1488889205311	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486223048891.txt (1486223048000)
+1488889205312	Sync.LogManager	TRACE	Deleted error-sync-1486223048891.txt
+1488889205316	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486552674249.txt (1486552674000)
+1488889205317	Sync.LogManager	TRACE	Deleted error-sync-1486552674249.txt
+1488889205320	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485793964914.txt (1485793964000)
+1488889205321	Sync.LogManager	TRACE	Deleted error-sync-1485793964914.txt
+1488889205324	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485788411623.txt (1485788411000)
+1488889205325	Sync.LogManager	TRACE	Deleted error-sync-1485788411623.txt
+1488889205330	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485834477707.txt (1485834477000)
+1488889205333	Sync.LogManager	TRACE	Deleted error-sync-1485834477707.txt
+1488889205336	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485809235002.txt (1485809235000)
+1488889205337	Sync.LogManager	TRACE	Deleted error-sync-1485809235002.txt
+1488889205340	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485797816009.txt (1485797816000)
+1488889205342	Sync.LogManager	TRACE	Deleted error-sync-1485797816009.txt
+1488889205346	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485802024550.txt (1485802024000)
+1488889205347	Sync.LogManager	TRACE	Deleted error-sync-1485802024550.txt
+1488889205351	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485791457816.txt (1485791457000)
+1488889205353	Sync.LogManager	TRACE	Deleted error-sync-1485791457816.txt
+1488889205356	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485835327807.txt (1485835327000)
+1488889205357	Sync.LogManager	TRACE	Deleted error-sync-1485835327807.txt
+1488889205360	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486221233757.txt (1486221233000)
+1488889205361	Sync.LogManager	TRACE	Deleted error-sync-1486221233757.txt
+1488889205365	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486181057411.txt (1486181057000)
+1488889205366	Sync.LogManager	TRACE	Deleted error-sync-1486181057411.txt
+1488889205369	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485794569648.txt (1485794569000)
+1488889205370	Sync.LogManager	TRACE	Deleted error-sync-1485794569648.txt
+1488889205374	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485812839623.txt (1485812839000)
+1488889205375	Sync.LogManager	TRACE	Deleted error-sync-1485812839623.txt
+1488889205378	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485787714982.txt (1485787715000)
+1488889205379	Sync.LogManager	TRACE	Deleted error-sync-1485787714982.txt
+1488889205383	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486553641447.txt (1486553641000)
+1488889205384	Sync.LogManager	TRACE	Deleted error-sync-1486553641447.txt
+1488889205389	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486181150224.txt (1486181150000)
+1488889205390	Sync.LogManager	TRACE	Deleted error-sync-1486181150224.txt
+1488889205394	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486553548127.txt (1486553548000)
+1488889205395	Sync.LogManager	TRACE	Deleted error-sync-1486553548127.txt
+1488889205398	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485805629199.txt (1485805629000)
+1488889205399	Sync.LogManager	TRACE	Deleted error-sync-1485805629199.txt
+1488889205402	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485787807963.txt (1485787807000)
+1488889205403	Sync.LogManager	TRACE	Deleted error-sync-1485787807963.txt
+1488889205405	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485798419771.txt (1485798419000)
+1488889205407	Sync.LogManager	TRACE	Deleted error-sync-1485798419771.txt
+1488889205411	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485820039670.txt (1485820039000)
+1488889205413	Sync.LogManager	TRACE	Deleted error-sync-1485820039670.txt
+1488889205416	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486222176625.txt (1486222176000)
+1488889205417	Sync.LogManager	TRACE	Deleted error-sync-1486222176625.txt
+1488889205420	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486181731540.txt (1486181731000)
+1488889205421	Sync.LogManager	TRACE	Deleted error-sync-1486181731540.txt
+1488889205424	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486223653056.txt (1486223653000)
+1488889205425	Sync.LogManager	TRACE	Deleted error-sync-1486223653056.txt
+1488889205428	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486222955982.txt (1486222955000)
+1488889205429	Sync.LogManager	TRACE	Deleted error-sync-1486222955982.txt
+1488889205432	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485792061413.txt (1485792061000)
+1488889205433	Sync.LogManager	TRACE	Deleted error-sync-1485792061413.txt
+1488889205436	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1485816439647.txt (1485816439000)
+1488889205437	Sync.LogManager	TRACE	Deleted error-sync-1485816439647.txt
+1488889205441	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486222083842.txt (1486222083000)
+1488889205443	Sync.LogManager	TRACE	Deleted error-sync-1486222083842.txt
+1488889205448	Sync.LogManager	TRACE	 > Cleanup removing error-sync-1486182335832.txt (1486182335000)
+1488889205449	Sync.LogManager	TRACE	Deleted error-sync-1486182335832.txt
+1488889205452	Sync.LogManager	DEBUG	Done deleting files.
+1488889295244	Sync.Service	DEBUG	User-Agent: Firefox/45.0.2 FxSync/1.47.0.20160414065514.
+1488889295244	Sync.Service	INFO	Starting sync at 2017-03-07 17:51:35
+1488889295248	browserwindow.syncui	DEBUG	observed: weave:service:sync:start
+1488889295249	browserwindow.syncui	DEBUG	onActivityStart with numActive: 0
+1488889295252	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1488889295253	Sync.Status	INFO	Resetting Status.
+1488889295254	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1488889295256	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889295258	browserwindow.syncui	DEBUG	_loginFailed has sync state=success.login
+1488889295261	browserwindow.syncui	DEBUG	_loginFailed has sync state=success.login
+1488889296159	Sync.Resource	DEBUG	mesg: GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/info/collections
+1488889296161	Sync.Resource	DEBUG	GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/info/collections
+1488889296164	Sync.Service	DEBUG	Fetching global metadata record
+1488889296164	Sync.Service	DEBUG	Clearing cached meta record. metaModified is 1488290940.11, setting to 1488889204.94
+1488889296164	Sync.RecordManager	TRACE	Importing record: https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/meta/global
+1488889296165	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889296473	Sync.Resource	DEBUG	mesg: GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/meta/global
+1488889296474	Sync.Resource	DEBUG	GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/meta/global
+1488889296474	Sync.Service	DEBUG	Weave Version: 1.47.0 Local Storage: 5 Remote Storage: 5
+1488889296475	Sync.Service	INFO	Sync key is up-to-date: no need to upgrade.
+1488889296475	Sync.Service	DEBUG	Fetching and verifying -- or generating -- symmetric keys.
+1488889296475	Sync.Service	INFO	Testing info/collections: {"passwords":1488292425.91,"addons":1473603538.46,"tabs":1488889149.92,"clients":1488889148.9,"crypto":1461224871.96,"forms":1488889154.5,"meta":1488889204.94,"bookmarks":1484577882.72,"prefs":1472312059.94,"history":1488889204.49}
+1488889296475	Sync.CollectionKeyManager	INFO	Testing for updateNeeded. Last modified: 1461224871.96
+1488889296475	Sync.Synchronizer	DEBUG	Refreshing client list.
+1488889296477	Sync.Engine.Clients	INFO	0 outgoing items pre-reconciliation
+1488889296478	Sync.Engine.Clients	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889296479	Sync.Synchronizer	INFO	Updating enabled engines: 2 clients.
+1488889296482	Sync.Synchronizer	INFO	Syncing all enabled engines.
+1488889296484	Sync.Engine.Greasemonkey	DEBUG	First sync, uploading all items
+1488889296485	Sync.Engine.Greasemonkey	INFO	0 outgoing items pre-reconciliation
+1488889296485	Sync.Engine.Greasemonkey	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889296486	Sync.Engine.Prefs	INFO	0 outgoing items pre-reconciliation
+1488889296487	Sync.Engine.Prefs	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889296488	Sync.Engine.Passwords	INFO	0 outgoing items pre-reconciliation
+1488889296489	Sync.Engine.Passwords	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889296490	Sync.Engine.Tabs	INFO	1 outgoing items pre-reconciliation
+1488889296491	Sync.Engine.Tabs	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889296496	Sync.Engine.Tabs	INFO	Uploading all of 1 records
+1488889296496	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889296498	Sync.Collection	DEBUG	POST Length: 1016
+1488889296806	Sync.Collection	DEBUG	mesg: POST success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/tabs
+1488889296806	Sync.Collection	DEBUG	POST success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/tabs
+1488889296809	Sync.Engine.Bookmarks	INFO	0 outgoing items pre-reconciliation
+1488889296813	Sync.Engine.Bookmarks	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889296815	Sync.Engine.Addons	DEBUG	Refreshing reconciler state
+1488889296815	Sync.AddonsReconciler	INFO	Refreshing global state from AddonManager.
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: langpack-en-GB@firefox.mozilla.org
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: langpack-en-ZA@firefox.mozilla.org
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: ubufox@ubuntu.com
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: jid1-BYcQOfYfmBMd9A@jetpack
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: nimbusscreencaptureff@everhelper.me
+1488889296821	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: {e4a8a97b-f2ed-450b-b12d-ee082ba24781}
+1488889296822	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: {d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}
+1488889296822	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 87677a2c52b84ad3a151a4a72f5bd3c4@jetpack
+1488889296822	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: malware-remediation@mozilla.org
+1488889296822	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: loop@mozilla.org
+1488889296822	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 346533@personas.mozilla.org
+1488889296823	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 674386@personas.mozilla.org
+1488889296823	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 658636@personas.mozilla.org
+1488889296824	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 677501@personas.mozilla.org
+1488889296824	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 655726@personas.mozilla.org
+1488889296825	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 79394@personas.mozilla.org
+1488889296825	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 143123@personas.mozilla.org
+1488889296826	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 224304@personas.mozilla.org
+1488889296826	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 239828@personas.mozilla.org
+1488889296827	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 520104@personas.mozilla.org
+1488889296827	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 318399@personas.mozilla.org
+1488889296828	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: 86957@personas.mozilla.org
+1488889296828	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: recommended-2@personas.mozilla.org
+1488889296829	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: gmp-gmpopenh264
+1488889296829	Sync.AddonsReconciler	DEBUG	Rectifying state for addon: {3050f584-f0fb-1a0d-6e4f-c4c1d0f1ecec}
+1488889296836	Sync.AddonsReconciler	INFO	Saving reconciler state to file: addonsreconciler
+1488889296843	Sync.Store.Addons	DEBUG	{3050f584-f0fb-1a0d-6e4f-c4c1d0f1ecec} not syncable: type not in whitelist: plugin
+1488889296844	Sync.Store.Addons	DEBUG	malware-remediation@mozilla.org not syncable: add-on not found in add-on repository.
+1488889296844	Sync.Engine.Addons	INFO	0 outgoing items pre-reconciliation
+1488889296845	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889296854	Sync.Engine.Addons	ERROR	null
+1488889297478	Sync.Tracker.Clients	DEBUG	Saving changed IDs to clients
+1488889297485	Sync.Tracker.Greasemonkey	DEBUG	Saving changed IDs to greasemonkey
+1488889297489	Sync.Tracker.Passwords	DEBUG	Saving changed IDs to passwords
+1488889297810	Sync.Tracker.Bookmarks	DEBUG	Saving changed IDs to bookmarks
+1488889297844	Sync.Tracker.Addons	DEBUG	Saving changed IDs to addons
+1488889298209	Sync.AddonUtils	INFO	Found 1/1 add-ons during repository search.
+1488889298210	Sync.AddonUtils	INFO	Trying to install add-on from search result: jid1-d4RMh9k0O9Q2vw@jetpack
+1488889298210	Sync.AddonUtils	DEBUG	Obtaining install for jid1-d4RMh9k0O9Q2vw@jetpack
+1488889298210	Sync.AddonUtils	INFO	Installing jid1-d4RMh9k0O9Q2vw@jetpack
+1488889299254	Sync.Store.Addons	WARN	Failed to apply incoming record uFhdeapwTHFI
+1488889299254	Sync.Store.Addons	WARN	Encountered exception: Error: 1 or more add-ons failed to install (resource://gre/modules/services-sync/addonutils.js:287:18) JS Stack trace: installCallback@addonutils.js:287:18 < installAddonFromSearchResult/onResult/listener.onDownloadFailed@addonutils.js:160:13 < AddonManagerInternal.callInstallListeners@AddonManager.jsm:1770:15 < this.AddonManagerPrivate.callInstallListeners@AddonManager.jsm:2836:1 < AddonInstall.prototype.downloadFailed@XPIProvider.jsm:5832:1 < AddonInstall.prototype.onStopRequest/<@XPIProvider.jsm:5802:11 < Handler.prototype.process@Promise-backend.js:936:21 < this.PromiseWalker.walkerLoop@Promise-backend.js:812:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:746:1 < waitForSyncCallback@async.js:102:7 < makeSpinningCallback/callback.wait@async.js:156:27 < create@addons.js:299:19 < Store.prototype.applyIncoming@engines.js:337:7 < applyIncoming@addons.js:281:5 < Store.prototype.applyIncomingBatch@engines.js:304:9 < doApplyBatch@engines.js:995:32 < SyncEngine.prototype._processIncoming/newitems.recordHandler@engines.js:1110:9 < Collection.prototype.recordHandler/this._onProgress@record.js:628:9 < Channel_onDataAvail@resource.js:561:7 < waitForSyncCallback@async.js:102:7 < Res__request@resource.js:408:14 < Res_get@resource.js:432:12 < SyncEngine.prototype._processIncoming@engines.js:1173:18 < SyncEngine.prototype._sync@engines.js:1545:7 < WrappedNotify@util.js:148:21 < Engine.prototype.sync@engines.js:669:5 < _syncEngine@enginesync.js:214:7 < sync@enginesync.js:164:15 < onNotify@service.js:1309:7 < WrappedNotify@util.js:148:21 < WrappedLock@util.js:103:16 < _lockedSync@service.js:1299:12 < sync/<@service.js:1291:14 < WrappedCatch@util.js:77:16 < sync@service.js:1279:5
+1488889299255	Sync.Collection	DEBUG	mesg: GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/addons?full=1&ids=uFhdeapwTHFI
+1488889299255	Sync.Collection	DEBUG	GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/addons?full=1&ids=uFhdeapwTHFI
+1488889299255	Sync.Engine.Addons	DEBUG	Records that failed to apply: uFhdeapwTHFI
+1488889299256	Sync.Engine.Addons	INFO	Records: 1 applied, 0 successfully, 1 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889299257	Sync.Engine.Forms	INFO	0 outgoing items pre-reconciliation
+1488889299258	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889299265	Sync.Engine.Addons	ERROR	null
+1488889299560	Sync.Collection	DEBUG	mesg: GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/forms?newer=1488292119.35&full=1
+1488889299560	Sync.Collection	DEBUG	GET success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/forms?newer=1488292119.35&full=1
+1488889299561	Sync.Engine.Forms	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889299562	Sync.Engine.History	INFO	2 outgoing items pre-reconciliation
+1488889299564	Sync.Engine.History	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1488889299571	Sync.Engine.History	INFO	Uploading all of 2 records
+1488889299571	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889299573	Sync.Collection	DEBUG	POST Length: 1153
+1488889299939	Sync.Collection	DEBUG	mesg: POST success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/history
+1488889299939	Sync.Collection	DEBUG	POST success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/history
+1488889299940	Sync.Synchronizer	INFO	meta/global changed locally: reuploading.
+1488889299940	Sync.Service	DEBUG	Uploading meta/global: {"id":"global","payload":"{\"declined\":[\"adblockplus\"],\"storageVersion\":5,\"syncID\":\"bqtmNZ4h6Eqq\",\"engines\":{\"history\":{\"version\":1,\"syncID\":\"2pfTE991uDI3\"},\"bookmarks\":{\"version\":2,\"syncID\":\"eti8f1Hc6nru\"},\"passwords\":{\"version\":1,\"syncID\":\"YxS_E0NZkJ7x\"},\"forms\":{\"version\":1,\"syncID\":\"QF7R5HVW4B9_\"},\"tabs\":{\"version\":1,\"syncID\":\"MKitR6t4yikQ\"},\"clients\":{\"version\":1,\"syncID\":\"B_lQcMnZpwgd\"},\"prefs\":{\"version\":2,\"syncID\":\"OvdaOW9XCpre\"},\"addons\":{\"version\":1,\"syncID\":\"kb3_7vGxy3-K\"},\"greasemonkey\":{\"version\":1,\"syncID\":\"vQwFVrSd1I1c\"}}}","modified":1488889204.94}
+1488889299941	Sync.BrowserIDManager	DEBUG	_ensureValidToken already has one
+1488889299944	Sync.Resource	DEBUG	PUT Length: 653
+1488889300257	Sync.Tracker.Forms	DEBUG	Saving changed IDs to forms
+1488889300328	Sync.Resource	DEBUG	mesg: PUT success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/meta/global
+1488889300328	Sync.Resource	DEBUG	PUT success 200 https://sync-300-us-west-2.sync.services.mozilla.com/1.5/44663087/storage/meta/global
+1488889300328	Sync.Status	DEBUG	Status.sync: success.sync => success.sync
+1488889300328	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1488889300328	Sync.Synchronizer	INFO	Sync completed at 2017-03-07 17:51:40 after 5.08 secs.
+1488889300330	Sync.Declined	DEBUG	Handling remote declined: ["adblockplus"]
+1488889300330	Sync.Declined	DEBUG	Handling local declined: ["adblockplus"]
+1488889300330	Sync.Declined	DEBUG	Declined changed? false
+1488889300330	Sync.Service	INFO	No change to declined engines. Not reuploading meta/global.
+1488889300331	browserwindow.syncui	DEBUG	observed: weave:service:sync:finish
+1488889300331	browserwindow.syncui	DEBUG	onActivityStop with numActive: 1
+1488889300333	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms.
