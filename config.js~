@@ -1,0 +1,8 @@
+// config.js
+
+module.exports = {
+  consumer_key: 'RunDOh9R9qDI8dGJ5sFk3usQC',
+  consumer_secret: '3Q5SwgCHMdx9m2gCPWm9sMzyOGote7Obw755AU4tuWH3e3wo6e',
+  access_token_key: '',
+  access_token_secret: ''
+}
