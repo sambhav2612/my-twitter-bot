@@ -34,7 +34,7 @@ var params = {
   q: '#gdgfest',
   q: '#androiddevelopers',
   q: '#googledevelopers',
-  count: 100
+  count: 1000
 }
 
 /*  T.post('statuses/update', {
