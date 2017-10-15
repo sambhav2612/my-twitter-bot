@@ -1,0 +1,34 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "NodeJS Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhav2612/my-twitter-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bot",
+    "twitter"
+  ],
+  "author": "Sambhav Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambhav2612/my-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/sambhav2612/my-twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "now": {
+    "alias": "my-twitter-bot",
+    "files": [
+      "src",
+      "app.js"
+    ]
+  }
+}
