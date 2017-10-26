@@ -1,8 +1,8 @@
 ### [NodeJS-Twitter Bot](https://github.com/sambhav2612/my-twitter-bot)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1a56ce9d413e44e8831aa1cbb9325086)](https://www.codacy.com/app/sambhavjain2612/my-twitter-bot?utm_source=github.com&utm_medium=referral&utm_content=sambhav2612/my-twitter-bot&utm_campaign=badger)
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/1c022311049140c287f9/maintainability)](https://codeclimate.com/github/sambhav2612/my-twitter-bot/maintainability)
+[![BCH compliance](https://bettercodehub.com/edge/badge/sambhav2612/my-twitter-bot?branch=patch-1)](https://bettercodehub.com/)
 
 #### current version {0.5.5}
 
