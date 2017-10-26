@@ -2,6 +2,8 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1a56ce9d413e44e8831aa1cbb9325086)](https://www.codacy.com/app/sambhavjain2612/my-twitter-bot?utm_source=github.com&utm_medium=referral&utm_content=sambhav2612/my-twitter-bot&utm_campaign=badger)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/1c022311049140c287f9/maintainability)](https://codeclimate.com/github/sambhav2612/my-twitter-bot/maintainability)
+
 #### current version {0.5.5}
 
 I had a fantasy to create something that automates some tasks for me or for anyone. Last week, I've reading some article on [Medium](https://medium.com) about startups. In the suggested section, there was a article with title *["Build a Twitter Bot using NodeJS with 38 Lines of Code"](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)*. I went in, thinking it'd be pretty hard to create something like a bot. But, it was easier to design a simple bot than to *write an algortihm to sort n-elements in O(n) time*.    
